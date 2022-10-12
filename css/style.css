@@ -127,7 +127,32 @@ h1{
     text-align: center;
 }
 
+.service{
+    background-color: var(--color1);
+    padding: 2rem var(--padding);
+}
 
+.service h1{
+    letter-spacing: 0.5rem;
+    text-align: center;
+}
+h5{
+    color: white;
+    font-size: 16px;
+}
+.pox{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width: 300px;
+    background-color: #22282a;
+    border-radius: 20px;
+    padding: 1.3rem 2rem;
+}
+.card p{
+    color: var(--color3);
+}
 
 
 
